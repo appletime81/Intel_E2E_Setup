@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <ME xmlns="urn:3gpp:tsg:sa5:nrm:ngran">
+  <ME xmlns="">
     <objectClass>ME</objectClass>
     <objectInstance>0</objectInstance>
     <id>0</id>
